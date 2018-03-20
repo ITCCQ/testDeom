@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wodea.iml" filepath="$PROJECT_DIR$/wodea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wodec/wodec.iml" filepath="$PROJECT_DIR$/wodec/wodec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/woded/woded.iml" filepath="$PROJECT_DIR$/woded/woded.iml" />
+    </modules>
+  </component>
+</project>
